@@ -1,0 +1,40 @@
+- all statistical functions coded myself
+
+- functionality
+    - display of live time
+    - color coded start, stop, etc. (must hold 2 keys down to ensure you have proper start setup)
+    - full log of past attempts
+
+stats to show:
+- graph of times over attempts (histogram AND line chart options)
+- all time...
+    - average
+    - median
+    - best
+    - worst
+    - standard dev
+    - Q1
+    - Q3
+- past 8...
+    - average
+    - median
+    - best
+    - worst
+    - standard dev
+    - Q1
+    - Q3
+- past 15...
+    - average
+    - median
+    - best
+    - worst
+    - standard dev
+    - Q1
+    - Q3
+
+- functionality (future)
+    - sessions (you can start/stop sessions and show specific sessions only or show all past times)
+    - FULLY customizable interface (drag dashboards, change what calculations are shown, etc.)
+    - camera feed (record each attempt and the feeds get saved and you can replay/save the recordings (for storage, maybe you have to favorite them or else they get deleted))
+    - full login functionality
+    - database to store logins/account data
