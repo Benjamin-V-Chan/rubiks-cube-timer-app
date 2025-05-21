@@ -1,1 +1,1 @@
-# rubiks-cube-timer-app
+# rubiks-cube-timer-app-pygame
